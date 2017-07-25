@@ -1,0 +1,42 @@
+http://isbndb.com/api/v2/xml/VC7FRDXP/books?q=9780816081530
+
+<isbndb>
+<current_page>1</current_page>
+<data>
+<author_data>
+<id>pamela_fehl</id>
+<name>Pamela Fehl</name>
+</author_data>
+<awards_text/>
+<book_id>science_c28</book_id>
+<dewey_decimal/>
+<dewey_normal>0</dewey_normal>
+<edition_info>(electronic bk.)</edition_info>
+<isbn10>0816081530</isbn10>
+<isbn13>9780816081530</isbn13>
+<language>eng</language>
+<lcc_number/>
+<marc_enc_level>2</marc_enc_level>
+<notes>
+Description based upon print version of record. Cover; Contents; Introduction; Biochemists; Biologists; Botanists; Chemists; Climatologists; Ecologists; Environmental Scientists; Geologists; Geophysicists; Marine Biologists; Meteorologists; Oceanographers; Soil Scientists; Wetland Scientists; Wildlife Scientists; Further Reading; Index; Access restricted to subscribing institutions. Individual titles purchased upon selection by an affiliated user.
+</notes>
+<physical_description_text>1 online resource (169 p.)</physical_description_text>
+<publisher_id>infobase_publishing</publisher_id>
+<publisher_name>Infobase Publishing</publisher_name>
+<publisher_text>New York : Infobase Publishing, 2010.</publisher_text>
+<subject_ids>business_investing_job_hunting_careers_guides</subject_ids>
+<subject_ids>reference_general</subject_ids>
+<subject_ids>science_general_aaaa0</subject_ids>
+<subject_ids>electronic_books</subject_ids>
+<summary/>
+<title>Science</title>
+<title_latin>Science</title_latin>
+<title_long/>
+<urls_text>
+Access online: Individual login with EBL required http://0-www.du.eblib.com.bianca.penlib.du.edu/EBLWeb/patron/?target=patron&extendedid=P_540037_0
+</urls_text>
+</data>
+<index_searched>isbn</index_searched>
+<page_count>1</page_count>
+<result_count>1</result_count>
+</isbndb>
